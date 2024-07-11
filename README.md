@@ -8,11 +8,11 @@ Provide the opportunaties:
 
 #### Regular expression:
 
-!()[]
+!()[https://github.com/MikhailCherepanovD/RegExpAnalyzer/blob/master/GitHubResources/RegExp.png]
 
 #### State machine:
 
-!()[]
+!()[https://github.com/MikhailCherepanovD/RegExpAnalyzer/blob/master/GitHubResources/StateMachine.png]
 
 
 ## To install:
@@ -38,7 +38,7 @@ make
 
 ### Documentation on Russian language:
 
-()[]
+()[https://github.com/MikhailCherepanovD/RegExpAnalyzer/blob/master/GitHubResources/Documentation.pdf]
 
 
 
