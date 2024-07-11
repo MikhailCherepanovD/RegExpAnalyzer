@@ -1,4 +1,0 @@
-/home/mikhail/Разработка/Qt/Lab2RegExpCmake/cmake_build/CMakeFiles/rebuild_cache.dir
-/home/mikhail/Разработка/Qt/Lab2RegExpCmake/cmake_build/CMakeFiles/edit_cache.dir
-/home/mikhail/Разработка/Qt/Lab2RegExpCmake/cmake_build/CMakeFiles/main.dir
-/home/mikhail/Разработка/Qt/Lab2RegExpCmake/cmake_build/CMakeFiles/RegExpAnalyze.h.dir
