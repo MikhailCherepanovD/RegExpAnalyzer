@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRegExpAnalyze.h.a CMakeFiles/RegExpAnalyze.h.dir/RegExpAnalyze.cpp.o
+/usr/bin/ranlib libRegExpAnalyze.h.a
